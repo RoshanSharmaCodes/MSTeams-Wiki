@@ -1,0 +1,45 @@
+.wrapper{
+	border: 2px solid black;
+	width: 800px;
+	height: 1300px;
+	padding: 10px;
+}
+.intro{
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+	
+}
+.title{
+	display: block;
+	font-size: 30px;
+}
+.LastEdit{
+	font-size: 15px;
+}
+.SectionLinks{
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+.SectionLinks .subTitle{
+	font-size: 20px;
+}
+
+.table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table td{
+	padding: 10px;
+	height: 40px;
+}
+
+ul{
+	list-style:"--";
+}
+
+li{
+	margin-top: 20px;
+}
